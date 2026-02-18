@@ -1,0 +1,5 @@
+[
+  "tests/test_loc_counter.py::TestCounter::test_basic",
+  "tests/test_loc_counter.py::TestCounter::test_empty",
+  "tests/test_loc_counter.py::TestCounter::test_type_error"
+]
